@@ -1,2 +1,2 @@
 # Programming
-Repository for apply the concepts, that I have learned through myself.
+This Repository is for applying the concepts, that I have learned through myself.
