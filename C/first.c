@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//calculation of simple interest
 int main()
 {
     int p,n;
