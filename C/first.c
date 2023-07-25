@@ -11,7 +11,7 @@ int main()
 
     si = p*n*r/100;
 
-    printf("%f\n",si);
+    printf("%.4f\n",si);
     return 0;    
 }
 
