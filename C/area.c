@@ -18,11 +18,11 @@ int main()
      printf("Radius: ");
      scanf("%i",&r);
 
-     int ac = 22*r*r/7;
-     int pc = 44*r/7;
+     float ac = 3.14*r*r;
+     float pc = 3.14*2*r;
      int ar = l*b;
      int pr = 2*l+2*b; 
 
-     printf("Area of Circle:%i\n Perimeter of Circle:%i\n Area of Rectangle:%i\n Perimeter of Rectangle:%i\n",ac,pc,ar,pr);
+     printf("Area of Circle:%.2f\n Perimeter of Circle:%.2f\n Area of Rectangle:%i\n Perimeter of Rectangle:%i\n",(float)ac,(float)pc,ar,pr);
      return 0;
 }
