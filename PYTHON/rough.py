@@ -1,4 +1,4 @@
 message = " Python "
-message = message.strip()
-message = message.upper()
+message = message.strip().upper()
+#message = message.upper()
 print(message)
