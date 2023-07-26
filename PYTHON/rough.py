@@ -1,5 +1,5 @@
-message =  " Programming Languages:\n\tC\n\tPython\n\tJAVA\n\tJS  "
-message = message.strip().upper()
+message =  " programming languages:\n\tc\n\tpython\n\tjava\n\tjs  "
+message = message.strip().title()
 
 print(message)
 
