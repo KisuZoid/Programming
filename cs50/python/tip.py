@@ -43,4 +43,4 @@ def percent_to_float():
    
 main()
 """
-
+#replace() method is valid for strings only therefore variable defined as float after the replace method
